@@ -1,2 +1,5 @@
-local wl = {}
+local wl = {
+  "A338393B-C0BC-49B7-BA29-830C54AF4D57",
+  "63057C44-D51B-4A7A-8BC6-21B74F7D3677"
+}
 return wl
